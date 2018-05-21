@@ -38,7 +38,7 @@ anchors = [18,27, 28,75, 49,132, 55,43, 65,227, 84,86, 108,162, 109,288, 162,329
 max_box_per_image = 60
 min_input_size = 224
 max_input_size = 480
-batch_size = 2
+batch_size = 4
 ignore_thresh = 0.6
 
 first_train = False
